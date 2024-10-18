@@ -204,15 +204,5 @@ end
 ## Credits
 
 - **Developer**: PsycomantisX
-- **Contributors**: List any contributors or resources you used.
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this script.
-
-# Happy Gaming!
 
 If you have any questions or need further assistance, feel free to reach out.
-
-**Note**: Replace placeholders like `your_warning_webhook_url_here` with your actual data. Ensure that you comply with the licenses of any third-party resources or scripts you use.
-
